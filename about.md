@@ -3,6 +3,6 @@ layout: page
 title: About
 ---
 
-**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
-
-For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
+**Lin Botao** is currently a Phd student of the Chinese University of Hong Kong.
+My research interest encompasses **Mechanical Design**, **Surgical Robotics**, **Soft Robotics**, **Continuum Robot**, **Lockable Mechanism**, **Motion Planning**.
+My works has been published in some international journals and conferences, more details can be seen at my [google scholar]:(https://scholar.google.com/citations?user=n1Ii94gAAAAJ&hl=en).
