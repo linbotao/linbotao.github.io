@@ -3,11 +3,9 @@ layout: page
 title: About Botao
 ---
 # Self-introduction
-I am currently a first year Phd student of the Chinese University of Hong Kong.
+I am currently the first year EE Phd student of the Chinese University of Hong Kong.
 
 My research interest includes **Mechanical Design**, **Surgical Robotics**, **Soft Robotics**, **Continuum Robot**, **Lockable Mechanism**, **Motion Planning**.
-
-My works has been published in some international journals and conferences, more details can be seen at my [google scholar](https://scholar.google.com/citations?user=n1Ii94gAAAAJ&hl=en).
 
 # Publication
 2024 \- \- Y. Kong, N. Zhang, **B. Lin**, J. Wang, S. Song, B. Li, "Concentric Wire-Driven Robots With In Situ Torsion for Transnasal Surgery". **IEEE/ASME Transactions on Mechatronics**
@@ -23,3 +21,9 @@ My works has been published in some international journals and conferences, more
 2022 \- \- **B. Lin**, J. Wang, S. Song, B. Li and M.Q.-H. Meng, "A Modular Lockable Mechanism for Tendon-Driven Robots: Design, Modeling and Characterization". **IEEE Robotics and Automation Letters**
 
 2021 \- \- T. Zhang, Z. Zhang, **B. Lin**, J. Xue, J. Wang, S. Song, "Towards tracking by 2D-target registration for surgical optical tracking system". **2021 IEEE International Conference on Robotics and Biomimetics (ROBIO)**
+
+# Award
+2022 \- \- IEEE ROBIO 2022 Best Student Paper Finalist
+
+# Teaching Assistant
+2024 \- \- Term 1, Fumdamental of Electric Circuit(ELEG2022A).
