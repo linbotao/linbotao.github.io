@@ -7,3 +7,4 @@ date: 2024-12-21
 ---
 
 Wish you & me all the best!
+![some error occurs...](/PostMaterial/ChristmasTicket.jpg)
