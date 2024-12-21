@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Lin Botao's Research Page
-tags: mathjax
+title: Happy Winter Solstice Day & Merry Christmas!
+tags: Festival
 math: true
 date: 2024-12-21
 ---
 
-It is the Botao's personal website, all about Botao's research and life.
+Wish you & me all the best!
