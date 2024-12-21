@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Botao joints the Chinese University of Hong Kong!
-tags: mathjax
+tags: CUHK
 math: true
 date: 2024-8-1
 ---
