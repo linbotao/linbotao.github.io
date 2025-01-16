@@ -21,7 +21,7 @@ Auke Jan Ljspeert
 Shoji TAKEUCHI
 ![some error occurs...](/PostMaterial/ShojiTakeuchi.jpg)
 Kyu-jin Cho
-![some error occurs...](/PostMaterial/Kyujincho.jpg)
+![some error occurs...](/PostMaterial/KyujinCho.jpg)
 Tiantian Xu
 ![some error occurs...](/PostMaterial/TiantianXu.jpg)
 Kevin CHEN
