@@ -3,11 +3,13 @@ layout: page
 title: About Botao
 ---
 # Self-introduction
-I am currently the first year EE Phd student of the Chinese University of Hong Kong.
+I am currently a first-year EE PhD student at the Chinese University of Hong Kong.
 
 My research interest includes **Mechanical Design**, **Surgical Robotics**, **Soft Robotics**, **Continuum Robot**, **Lockable Mechanism**, **Motion Planning**.
 
 # Publication
+2025 \- \- **<u>B. Lin</u>**, S. Yuan, T. Zhang, T. Zhang, R. Hao, W. Yuan, C. Lim, H. Ren, "Minimally Invasive Endotracheal Inside-out Flexible Needle Driving System towards Microendoscope-guided Robotic Tracheostomy". **2025 IEEE International Conference on Robotics and Automation (ICRA)**
+
 2024 \- \- Y. Kong, N. Zhang, **<u>B. Lin</u>**, J. Wang, S. Song, B. Li, "Concentric Wire-Driven Robots With In Situ Torsion for Transnasal Surgery". **IEEE/ASME Transactions on Mechatronics**
 
 2024 \- \- **<u>B. Lin</u>**, S. Song, J. Wang, "Variable stiffness methods of flexible robots for minimally invasive surgery: A review". **Biomimetic Intelligence and Robotics**
@@ -23,12 +25,12 @@ My research interest includes **Mechanical Design**, **Surgical Robotics**, **So
 2021 \- \- T. Zhang, Z. Zhang, **<u>B. Lin</u>**, J. Xue, J. Wang, S. Song, "Towards tracking by 2D-target registration for surgical optical tracking system". **2021 IEEE International Conference on Robotics and Biomimetics (ROBIO)**
 
 # Award
-2022 \- \- **Best Student Paper Finalist** of IEEE ROBIO 2022 
-
 2024 \- \- **2024 Best Paper Award** of Biomimetic Intelligence and Robotics
+
+2022 \- \- **Best Student Paper Finalist** of IEEE ROBIO 2022 
 
 # Reviewer
 2024 \- \- IEEE International Conference of Robotics and Automation 2025
 
 # Teaching Assistant
-2024 \- \- Term 1, Fumdamental of Electric Circuit (ELEG2022A).
+2024 \- \- Term 1, Fundamental of Electric Circuit (ELEG2022A).
