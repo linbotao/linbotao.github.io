@@ -25,6 +25,8 @@ My research interest includes **Mechanical Design**, **Surgical Robotics**, **So
 2021 \- \- T. Zhang, Z. Zhang, **<u>B. Lin</u>**, J. Xue, J. Wang, S. Song, "Towards tracking by 2D-target registration for surgical optical tracking system". **2021 IEEE International Conference on Robotics and Biomimetics (ROBIO)**
 
 # Award
+2025 \- \- **Editors' Choice** of Biomimetic Intelligence and Robotics
+
 2024 \- \- **2024 Best Paper Award** of Biomimetic Intelligence and Robotics
 
 2022 \- \- **Best Student Paper Finalist** of IEEE ROBIO 2022 
@@ -33,4 +35,7 @@ My research interest includes **Mechanical Design**, **Surgical Robotics**, **So
 2024 \- \- IEEE International Conference of Robotics and Automation 2025
 
 # Teaching Assistant
+2025 \- \- Term 2, Introduction to Electric Power Systems (ELEG3601)
+
 2024 \- \- Term 1, Fundamental of Electric Circuit (ELEG2022A).
+
