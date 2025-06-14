@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Congratulations! Botao's work has been won the second prize of the 11th Hong Kong University Student Innovation & Entrepreneurship Competition!
+title: Congratulations! Botao's work has won the second prize of the 11th Hong Kong University Student Innovation & Entrepreneurship Competition!
 tags: award
 math: true
 date: 2025-05-31
