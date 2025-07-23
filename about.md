@@ -41,3 +41,7 @@ My research interest includes **Mechanical Design**, **Surgical Robotics**, **So
 
 2024 \- \- Term 1, Fundamental of Electric Circuit (ELEG2022A).
 
+# Mentees
+Cian Brady \-\- 2025 Summer Intern
+Asier Neylan \-\- 2025 Summer Intern
+
