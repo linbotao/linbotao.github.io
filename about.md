@@ -3,7 +3,7 @@ layout: page
 title: About Botao
 ---
 # Self-introduction
-I am currently a first-year EE PhD student at the Chinese University of Hong Kong.
+I am currently a second-year EE PhD student at the Chinese University of Hong Kong.
 
 My research interest includes **Mechanical Design**, **Surgical Robotics**, **Soft Robotics**, **Continuum Robot**, **Lockable Mechanism**, **Motion Planning**.
 
