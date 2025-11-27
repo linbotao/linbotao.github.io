@@ -1,0 +1,24 @@
+---
+layout: post
+title: Congratulations! Botao's work has been accepted by IEEE/ASME Transactions on Mechatronics!
+tags: paper
+math: true
+date: 2025-11-25
+---
+
+Thank professors Jiaole Wang, Shuang Song!
+
+# Reconfigurable Tendon-Driven Robots: Eliminating Inter-segmental Coupling via Independently Lockable Joints
+## Botao Lin, Shuang Song, Jiaole Wang
+
+# Abstract
+The tendon-driven robot (TDR), with its slender redundant body, offers a large workspace and strong maneuverability in complex environments. 
+It consists of multiple tendon-driven segments, where increasing the number of segments enhances dexterity and workspace but also intensifies inter-segmental coupling.
+Therefore, achieving precise TDR control requires more complex models and additional motors.
+This work presents a concept of reconfigurable tendon-driven robot (RTR), which is a special type of TDR equipped with innovative lockable joints.
+Each RTR joint can be individually locked or freed via antagonistic tendons, allowing selective actuation of segments and fundamentally eliminating inter-segmental coupling, thus avoiding complex coordinated control.
+Compared with the existing related studies, this work not only proposed a novel design of lockable joint and actuation module for RTR, but also gave out the derivation of general kinematic and static models of RTR.
+In addition, the exploration of RTR on dexterity has been conducted.
+Furthermore, demonstrations using a seven-joint RTR prototype were conducted to show its reconfigurability and locomotion capability in complex environments with the proposed actuator module comprising only six motors.
+
+DOI: 10.1109/TMECH.2025.3638772
