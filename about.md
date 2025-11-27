@@ -8,6 +8,8 @@ I am currently a second-year EE PhD student at the Chinese University of Hong Ko
 My research interest includes **Mechanical Design**, **Surgical Robotics**, **Soft Robotics**, **Continuum Robot**, **Lockable Mechanism**, **Motion Planning**.
 
 # Publication
+2025 \- \- **<u>B. Lin</u>**, S. Song, J. Wang, "Reconfigurable Tendon-Driven Robots: Eliminating Inter-segmental Coupling via Independently Lockable Joints". **IEEE/ASME Transactions on Mechatronics**
+
 2025 \- \- **<u>B. Lin</u>**, T. Zhang, S. Yuan, T. Wang, J. Wang, W. Yuan, H. Ren, "Adjusting Tissue Puncture Omnidirectionally In Situ with Pneumatic Rotatable Biopsy Mechanism and Hierarchical Airflow Management in Tortuous Luminal Pathways". **2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)**
 
 2025 \- \- **<u>B. Lin</u>**, S. Yuan, T. Zhang, T. Zhang, R. Hao, W. Yuan, C. Lim, H. Ren, "Minimally Invasive Endotracheal Inside-out Flexible Needle Driving System towards Microendoscope-guided Robotic Tracheostomy". **2025 IEEE International Conference on Robotics and Automation (ICRA)**
