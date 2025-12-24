@@ -41,9 +41,11 @@ My research interest includes **Mechanical Design**, **Surgical Robotics**, **So
 2024 \- \- IEEE International Conference of Robotics and Automation 2025
 
 # Teaching Assistant
-2025 \- \- Term 2, Introduction to Electric Power Systems (ELEG3601)
+2025-2026 \- \- Term 1, Intelligent Interactive Robot Practice (ELEG4701)
 
-2024 \- \- Term 1, Fundamental of Electric Circuit (ELEG2022A).
+2024-2025 \- \- Term 2, Introduction to Electric Power Systems (ELEG3601)
+
+2024-2025 \- \- Term 1, Fundamental of Electric Circuit (ELEG2022A)
 
 # Mentees
 Cian Brady (University College Dublin) \- \- 2025 Summer Intern
