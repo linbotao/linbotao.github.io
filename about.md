@@ -38,14 +38,18 @@ My research interest includes **Mechanical Design**, **Surgical Robotics**, **So
 2022 \- \- **Best Student Paper Finalist** of IEEE ROBIO 2022 
 
 # Reviewer
+2026 \- \- IEEE/RSJ International Conference on Intelligent Robots and Systems 2026
+
 2024 \- \- IEEE International Conference of Robotics and Automation 2025
 
 # Teaching Assistant
-2025-2026 \- \- Term 1, Intelligent Interactive Robot Practice (ELEG4701)
+2025-2026 \- \- Term 2, Robotic Perception and Intelligence (ELEG 3103)
 
-2024-2025 \- \- Term 2, Introduction to Electric Power Systems (ELEG3601)
+2025-2026 \- \- Term 1, Intelligent Interactive Robot Practice (ELEG 4701)
 
-2024-2025 \- \- Term 1, Fundamental of Electric Circuit (ELEG2022A)
+2024-2025 \- \- Term 2, Introduction to Electric Power Systems (ELEG 3601)
+
+2024-2025 \- \- Term 1, Fundamental of Electric Circuit (ELEG 2022A)
 
 # Mentees
 Cian Brady (University College Dublin) \- \- 2025 Summer Intern
